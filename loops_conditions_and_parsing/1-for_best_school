@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env bash
 #loop 10 times
 for((i=0;i<10;i++))
 do
